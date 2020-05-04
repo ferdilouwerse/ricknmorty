@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Before you run the application make sure you have node 10 or later installed.
+Open [https://nodejs.org/en/download/](https://nodejs.org/en/download/) to download the latest version of node 
+
+After setting the right node version for the application run npm install in your app folder
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
